@@ -55,3 +55,10 @@ that just logs in the console - you're more than welcome to do it!
 ## Delivery:
   Put your code in a git repository of your choice and send us the link.
 
+## Full Visibility
+<img width="1098" alt="image" src="https://user-images.githubusercontent.com/41572852/137600234-7f0c154f-7ea4-4145-b384-510f2136bded.png">
+
+## Partial Visibility 
+<img width="1098" alt="image" src="https://user-images.githubusercontent.com/41572852/137600257-06d01414-19cf-4b7a-b355-6087ac06f7fc.png">
+
+

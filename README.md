@@ -11,6 +11,7 @@
 ## Future improvements:
 1) currently % portion of advertise calculated for downward scroll, need to handle upward scroll as well if advertise get hidden at below of webpage
 2) currently if combination of horizontal & vertical scroll produces less perfect percentage of portion visibility, but considering responsiveness standard there will be less possibility of horizontal scroll
+3) Cypress test cases can be added with with few changes in file system.
 
 
 

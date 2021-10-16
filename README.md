@@ -61,4 +61,6 @@ that just logs in the console - you're more than welcome to do it!
 ## Partial Visibility 
 <img width="1098" alt="image" src="https://user-images.githubusercontent.com/41572852/137600257-06d01414-19cf-4b7a-b355-6087ac06f7fc.png">
 
+## Horizontal partial Visibility 
+<img width="1098" alt="image" src="https://user-images.githubusercontent.com/41572852/137600322-85a82043-671b-4894-859e-01be9be95baa.png">
 

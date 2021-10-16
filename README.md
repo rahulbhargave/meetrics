@@ -7,13 +7,15 @@
 4) tracked user's current tab focus to check user is active on page or not.
 5) counted user's click on whole document (can be restricted to particular ad level).
 6) kept same logging function with few other advertise statistics added.
+7) code is tested in Chrome as well as Safari
 
 ## Future improvements:
 1) currently % portion of advertise calculated for downward scroll, need to handle upward scroll as well if advertise get hidden at below of webpage
 2) currently if combination of horizontal & vertical scroll produces less perfect percentage of portion visibility, but considering responsiveness standard there will be less possibility of horizontal scroll
-3) Cypress test cases can be added with with few changes in file system.
+3) Cypress test cases can be added with few changes in file system.
 
-
+## How to run
+use live-server / http-server or any other light weight server to quickly run the app in chrome browser
 
 
 ## The ad being viewable means:
